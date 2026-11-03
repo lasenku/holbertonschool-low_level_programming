@@ -26,6 +26,7 @@ void times_table(void)
 			{
 				if (col != 0)
 					_putchar(' ');
+				_putchar(' ');
 				_putchar(result + '0');
 			}
 			else
