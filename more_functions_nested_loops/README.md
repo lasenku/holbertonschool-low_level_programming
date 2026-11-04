@@ -20,3 +20,4 @@ header files, and variable scope in C.
 | `2-mul.c` | Function that multiplies two integers |
 | `3-print_numbers.c` | Function that prints the numbers from 0 to 9 |
 | `4-print_most_numbers.c` | Function that prints the numbers from 0 to 9, except 2 and 4 |
+| `5-more_numbers.c` | Function that prints 10 times the numbers from 0 to 14 |
