@@ -22,3 +22,4 @@ header files, and variable scope in C.
 | `4-print_most_numbers.c` | Function that prints the numbers from 0 to 9, except 2 and 4 |
 | `5-more_numbers.c` | Function that prints 10 times the numbers from 0 to 14 |
 | `6-print_line.c` | Function that draws a straight line in the terminal |
+| `7-print_diagonal.c` | Function that draws a diagonal line in the terminal |
