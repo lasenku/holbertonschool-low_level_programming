@@ -9,7 +9,7 @@ header files, and variable scope in C.
 - Code follows the Betty style
 - No global variables
 - No standard library functions (only `_putchar` is allowed)
-  (except in the Fizz-Buzz task, where the standard library is allowed)
+  (except in the Fizz-Buzz and prime factor tasks, where the standard library is allowed)
 
 ## Files
 
@@ -27,3 +27,4 @@ header files, and variable scope in C.
 | `8-print_square.c` | Function that prints a square |
 | `9-fizz_buzz.c` | Program that prints the numbers from 1 to 100 (Fizz-Buzz) |
 | `10-print_triangle.c` | Function that prints a triangle |
+| `100-prime_factor.c` | Program that prints the largest prime factor of 612852475143 |
