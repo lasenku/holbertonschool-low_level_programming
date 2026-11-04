@@ -28,3 +28,4 @@ header files, and variable scope in C.
 | `9-fizz_buzz.c` | Program that prints the numbers from 1 to 100 (Fizz-Buzz) |
 | `10-print_triangle.c` | Function that prints a triangle |
 | `100-prime_factor.c` | Program that prints the largest prime factor of 612852475143 |
+| `101-print_number.c` | Function that prints an integer |
