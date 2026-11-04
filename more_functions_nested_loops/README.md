@@ -16,3 +16,4 @@ header files, and variable scope in C.
 |------|-------------|
 | `main.h` | Header file containing the prototypes of all functions |
 | `0-isupper.c` | Function that checks for an uppercase character |
+| `1-isdigit.c` | Function that checks for a digit (0 through 9) |
