@@ -26,3 +26,4 @@ header files, and variable scope in C.
 | `7-print_diagonal.c` | Function that draws a diagonal line in the terminal |
 | `8-print_square.c` | Function that prints a square |
 | `9-fizz_buzz.c` | Program that prints the numbers from 1 to 100 (Fizz-Buzz) |
+| `10-print_triangle.c` | Function that prints a triangle |
