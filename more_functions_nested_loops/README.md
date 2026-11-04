@@ -9,6 +9,7 @@ header files, and variable scope in C.
 - Code follows the Betty style
 - No global variables
 - No standard library functions (only `_putchar` is allowed)
+  (except in the Fizz-Buzz task, where the standard library is allowed)
 
 ## Files
 
@@ -24,3 +25,4 @@ header files, and variable scope in C.
 | `6-print_line.c` | Function that draws a straight line in the terminal |
 | `7-print_diagonal.c` | Function that draws a diagonal line in the terminal |
 | `8-print_square.c` | Function that prints a square |
+| `9-fizz_buzz.c` | Program that prints the numbers from 1 to 100 (Fizz-Buzz) |
