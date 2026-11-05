@@ -20,6 +20,8 @@ int main(void)
     if(operation==0){
     break;
     }
+    printf("A: ",num1);
+    printf("B: ",num2);
 
     printf("Enter the first number: ");
     scanf("%lf", &num1);
