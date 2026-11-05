@@ -20,15 +20,12 @@ int main(void)
     if(operation==0){
     break;
     }
-    printf("A: ",num1);
-    printf("B: ",num2);
-
-    printf("Enter the first number: ");
+    
+    printf("A: ");
     scanf("%lf", &num1);
 
-    printf("Enter the second number: ");
+    printf("B: ");
     scanf("%lf", &num2);
-
 
      switch(operation){
         case 1:
