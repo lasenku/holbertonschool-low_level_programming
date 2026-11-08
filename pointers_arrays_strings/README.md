@@ -8,6 +8,7 @@ This project covers pointers, arrays, and strings in C.
 - Code follows the Betty style
 - No global variables
 - No standard library functions (only `_putchar` is allowed)
+  (except `printf` in the print_array task)
 
 ## Files
 
@@ -22,3 +23,4 @@ This project covers pointers, arrays, and strings in C.
 | `5-rev_string.c` | Function that reverses a string |
 | `6-puts2.c` | Function that prints every other character of a string |
 | `7-puts_half.c` | Function that prints the second half of a string |
+| `8-print_array.c` | Function that prints n elements of an array of integers |
