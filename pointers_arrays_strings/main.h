@@ -31,4 +31,5 @@ int is_accepted(char c, char *accept);
 unsigned int _strspn(char *s, char *accept);
 int char_in_set(char c, char *accept);
 char *_strpbrk(char *s, char *accept);
+char *_strstr(char *haystack, char *needle);
 #endif /* MAIN_H */
