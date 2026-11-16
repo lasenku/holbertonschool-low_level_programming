@@ -18,3 +18,4 @@ This project covers dynamic memory allocation in C using malloc and free.
 | `1-strdup.c` | Function that returns a pointer to a newly allocated duplicate of a string |
 | `2-str_concat.c` | Function that concatenates two strings into a newly allocated space |
 | `3-alloc_grid.c` | Function that returns a pointer to a 2D array of integers |
+| `4-free_grid.c` | Function that frees a 2D grid previously created by alloc_grid |
