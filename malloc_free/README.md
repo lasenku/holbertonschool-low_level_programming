@@ -15,3 +15,4 @@ This project covers dynamic memory allocation in C using malloc and free.
 |------|-------------|
 | `main.h` | Header file containing the prototypes of all functions |
 | `0-create_array.c` | Function that creates an array of chars, initialized with a specific char |
+| `1-strdup.c` | Function that returns a pointer to a newly allocated duplicate of a string |
