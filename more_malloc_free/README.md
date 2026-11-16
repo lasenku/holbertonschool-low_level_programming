@@ -15,3 +15,4 @@ This project covers checked dynamic memory allocation in C.
 |------|-------------|
 | `main.h` | Header file containing the prototypes of all functions |
 | `0-malloc_checked.c` | Function that allocates memory using malloc, exiting with status 98 on failure |
+| `1-string_nconcat.c` | Function that concatenates two strings, using at most n bytes from the second |
