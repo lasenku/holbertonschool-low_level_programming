@@ -1,0 +1,17 @@
+# C - structures, typedef
+
+This project covers structures and typedef in C.
+
+## Requirements
+
+- Compiled on Ubuntu 20.04 LTS with `gcc -Wall -Werror -Wextra -pedantic -std=gnu89`
+- Code follows the Betty style
+- No global variables
+- The only standard library functions allowed are `printf`, `malloc`, `free` and `exit`
+- All header files are include guarded
+
+## Files
+
+| File | Description |
+|------|-------------|
+| `dog.h` | Header file defining the struct dog type |
