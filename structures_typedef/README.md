@@ -18,3 +18,4 @@ This project covers structures and typedef in C.
 | `1-init_dog.c` | Function that initializes a variable of type struct dog |
 | `2-print_dog.c` | Function that prints a struct dog |
 | `dog.h` (updated) | Defines dog_t as an alias for struct dog |
+| `4-new_dog.c` | Function that creates a new dog, storing copies of name and owner |
