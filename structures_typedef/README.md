@@ -15,3 +15,4 @@ This project covers structures and typedef in C.
 | File | Description |
 |------|-------------|
 | `dog.h` | Header file defining the struct dog type |
+| `1-init_dog.c` | Function that initializes a variable of type struct dog |
