@@ -17,3 +17,4 @@ This project covers recursion in C.
 |------|-------------|
 | `main.h` | Header file containing the prototypes of all functions |
 | `0-puts_recursion.c` | Function that prints a string, followed by a new line, using recursion |
+| `1-print_rev_recursion.c` | Function that prints a string in reverse, using recursion |
