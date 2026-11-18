@@ -21,3 +21,4 @@ This project covers recursion in C.
 | `2-strlen_recursion.c` | Function that returns the length of a string, using recursion |
 | `3-factorial.c` | Function that returns the factorial of a given number, using recursion |
 | `4-pow_recursion.c` | Function that returns x raised to the power of y, using recursion |
+| `5-sqrt_recursion.c` | Function that returns the natural square root of a number, using recursion |
