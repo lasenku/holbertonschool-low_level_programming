@@ -23,3 +23,4 @@ This project covers recursion in C.
 | `4-pow_recursion.c` | Function that returns x raised to the power of y, using recursion |
 | `5-sqrt_recursion.c` | Function that returns the natural square root of a number, using recursion |
 | `6-is_prime_number.c` | Function that returns 1 if a number is prime, 0 otherwise, using recursion |
+| `100-is_palindrome.c` | Function that returns 1 if a string is a palindrome, 0 otherwise, using recursion |

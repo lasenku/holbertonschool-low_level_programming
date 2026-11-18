@@ -12,4 +12,7 @@ int sqrt_helper(int n, int guess);
 int _sqrt_recursion(int n);
 int check_divisors(int n, int d);
 int is_prime_number(int n);
+int str_len_helper(char *s);
+int palindrome_helper(char *s, int start, int end);
+int is_palindrome(char *s);
 #endif /* MAIN_H */
