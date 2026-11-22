@@ -16,3 +16,4 @@ This project covers function pointers in C.
 |------|-------------|
 | `function_pointers.h` | Header file containing the prototypes of all functions |
 | `0-print_name.c` | Function that prints a name using a given function |
+| `1-array_iterator.c` | Function that executes a function on each element of an array |
