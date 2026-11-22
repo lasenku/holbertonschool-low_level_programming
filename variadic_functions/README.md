@@ -16,3 +16,4 @@ This project covers variadic functions in C.
 | `variadic_functions.h` | Header file containing the prototypes of all functions |
 | `0-sum_them_all.c` | Function that returns the sum of all its parameters |
 | `1-print_numbers.c` | Function that prints numbers, separated by a given string |
+| `2-print_strings.c` | Function that prints strings, separated by a given string |
